@@ -10,5 +10,6 @@ int main() {
         cin>>array[i];
     }
     cout<< max_array(array, dimensione);
+    
     return 0;
     }
