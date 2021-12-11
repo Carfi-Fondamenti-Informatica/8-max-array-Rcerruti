@@ -1,5 +1,5 @@
-#include <iostream>
-#include lib.h'
+using namespace std;
+#include "lib.h"
 float max_array(float a[], int dim ) {
     float max=a[0];
     for (int i=0; i< dim; i++) {
